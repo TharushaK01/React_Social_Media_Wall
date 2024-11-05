@@ -3,7 +3,7 @@ Welcome to one of my first explorations in building a Post Sharing Wall for a so
 
 ## 🚀 Project Highlights
 Dynamic Post Sharing: Effortlessly create and display posts on a user-friendly wall interface.
-Firebase Integration: Secured storage, real-time data sync, and smooth updates—all powered by Firebase.
+Firebase Integration: Secured storage, real-time data sync, and smooth updates all powered by Firebase.
 Sleek React UI: Built with React, delivering a responsive and engaging interface that keeps users connected and engaged.
 ## 🛠️ Tech Stack
 Frontend: React – for building a modern, interactive UI.
@@ -16,9 +16,6 @@ Secure User Authentication: Firebase ensures secure logins and manages data priv
 
 ## 🖥️ Live Demo
 https://github.com/user-attachments/assets/4861ad9d-e2ba-4638-9072-9f1e55194f0a
-
-🤝 ## Contributing
-This project is a work in progress, and I welcome your contributions to enhance it! To get involved:
 
 ## Fork the repository
 Create a new branch for your feature (git checkout -b feature-name)
